@@ -1,7 +1,14 @@
-# อัครเดช วงษ์บำหราบ (Akkaradet)
-Web • Mobile Application • IoT & Embedded Developer
+<div align="center">
+  <img src="./banner.svg" alt="Akkaradet Wongbamrap - Developer Portfolio" width="100%" />
 
-[Resume](./Resume_Akkaradet.pdf) / [Email](mailto:pa0653407100@gmail.com) / [GitHub](https://github.com/Akkaradet-Wong)
+  <br><br>
+
+  <a href="./Resume_Akkaradet.pdf"><img src="https://img.shields.io/badge/Resume-1e3a8a?style=flat-square&logo=googledocs&logoColor=93c5fd" alt="Resume" /></a>
+  <a href="mailto:pa0653407100@gmail.com"><img src="https://img.shields.io/badge/Email-0284c7?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Akkaradet-Wong"><img src="https://img.shields.io/badge/GitHub-070f26?style=flat-square&logo=github&logoColor=93c5fd" alt="GitHub" /></a>
+</div>
+
+<br>
 
 ---
 

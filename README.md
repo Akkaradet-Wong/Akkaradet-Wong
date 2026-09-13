@@ -93,7 +93,7 @@
   <tr>
     <td valign="middle">
       <h3><a href="https://github.com/Akkaradet-Wong/IoT-Bathroom-Smoke-Detector">IoT Bathroom Smoke &amp; Gas Detector — เครื่องตรวจจับควันบุหรี่ในห้องน้ำ</a></h3>
-      <p>ระบบตรวจจับควันบุหรี่และก๊าซไวไฟอัตโนมัติด้วย NodeMCU ESP8266 พร้อมแจ้งเตือนผ่าน LINE Notify, เสียง Buzzer, จอ LCD I2C และตัวกล่องเคสขึ้นรูปด้วย 3D Printing <i>(วิชาแนะนำวิศวกรรม)</i></p>
+      <p>ระบบตรวจจับควันบุหรี่และก๊าซไวไฟอัตโนมัติด้วย NodeMCU ESP8266 พร้อมแจ้งเตือนผ่าน LINE Notify, เสียง Buzzer, จอ LCD I2C และตัวกล่องเคสขึ้นรูปด้วย 3D Printing <i>(ร่วมกับ <a href="https://github.com/Happym0sttt">@Happym0sttt</a>, <a href="https://github.com/MIBVI">@MIBVI</a>, <a href="https://github.com/nattagrit">@nattagrit</a>)</i></p>
       <img src="https://skillicons.dev/icons?i=cpp,arduino" height="24" alt="C++, Arduino, ESP8266" />
     </td>
     <td align="center" width="180" valign="middle">

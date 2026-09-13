@@ -1,13 +1,15 @@
 <div align="center">
-  <img src="./banner.svg" alt="Akkaradet Wongbamrap - Developer Portfolio" width="100%" />
+  <a href="https://github.com/Akkaradet-Wong">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&height=70&lines=Akkaradet+Wongbamrap;Web+%E2%80%A2+Mobile+%E2%80%A2+IoT+Developer" alt="Akkaradet Wongbamrap - Typing SVG" />
+  </a>
 
-  <br><br>
-
-  <a href="./Resume_Akkaradet.pdf"><img src="https://img.shields.io/badge/Resume-1e3a8a?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:pa0653407100@gmail.com"><img src="https://img.shields.io/badge/Email-0284c7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Akkaradet-Wong"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <p align="center">
+    <a href="./Resume_Akkaradet.pdf"><strong>Resume</strong></a>
+    &nbsp;&nbsp;•&nbsp;&nbsp;
+    <a href="mailto:pa0653407100@gmail.com"><strong>Email</strong></a>
+    &nbsp;&nbsp;•&nbsp;&nbsp;
+    <a href="https://github.com/Akkaradet-Wong"><strong>GitHub</strong></a>
+  </p>
 </div>
 
 <br>

@@ -92,6 +92,18 @@
 <table width="100%">
   <tr>
     <td valign="middle">
+      <h3><a href="https://github.com/Akkaradet-Wong/IoT-Bathroom-Smoke-Detector">IoT Bathroom Smoke &amp; Gas Detector — เครื่องตรวจจับควันบุหรี่ในห้องน้ำ</a></h3>
+      <p>ระบบตรวจจับควันบุหรี่และก๊าซไวไฟอัตโนมัติด้วย NodeMCU ESP8266 พร้อมแจ้งเตือนผ่าน LINE Notify, เสียง Buzzer, จอ LCD I2C และตัวกล่องเคสขึ้นรูปด้วย 3D Printing <i>(วิชาแนะนำวิศวกรรม)</i></p>
+      <img src="https://skillicons.dev/icons?i=cpp,arduino" height="24" alt="C++, Arduino, ESP8266" />
+    </td>
+    <td align="center" width="180" valign="middle">
+      <a href="https://github.com/Akkaradet-Wong/IoT-Bathroom-Smoke-Detector">
+        <img src="https://img.shields.io/badge/Repository_→-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle">
       <h3><a href="https://github.com/Painter121/microcontroller-mini-project-fan-controller">Smart Fan Controller</a></h3>
       <p>ระบบควบคุมพัดลมอัจฉริยะ ปรับความเร็วรอบอัตโนมัติตามอุณหภูมิและเวลาจริง <i>(ร่วมกับ <a href="https://github.com/Painter121">@Painter121</a>)</i></p>
       <img src="https://skillicons.dev/icons?i=py,cpp,arduino" height="24" alt="Tech Stack" />

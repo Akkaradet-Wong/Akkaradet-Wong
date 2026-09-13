@@ -4,11 +4,17 @@
   </a>
 
   <p align="center">
-    <a href="./Resume_Akkaradet.pdf"><strong>Resume</strong></a>
-    &nbsp;&nbsp;•&nbsp;&nbsp;
-    <a href="mailto:pa0653407100@gmail.com"><strong>Email</strong></a>
-    &nbsp;&nbsp;•&nbsp;&nbsp;
-    <a href="https://github.com/Akkaradet-Wong"><strong>GitHub</strong></a>
+    <a href="./Resume_Akkaradet.pdf">
+      <img src="https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:pa0653407100@gmail.com">
+      <img src="https://img.shields.io/badge/Email-0284C7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/Akkaradet-Wong">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
   </p>
 </div>
 

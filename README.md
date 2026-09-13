@@ -24,9 +24,21 @@
 
 ## ผลงานและโปรเจกต์ (Projects & Showcase)
 
-### Web Development
+### Web & Full-Stack Development
 
 <table width="100%">
+  <tr>
+    <td valign="middle">
+      <h3><a href="https://github.com/Akkaradet-Wong/adsysrmuti">ADSYS RMUTI — ระบบจัดหาที่ปรึกษาและติดตามโครงงาน</a></h3>
+      <p>ระบบเว็บแอปพลิเคชัน Full-Stack สำหรับจัดหาอาจารย์ที่ปรึกษาโครงงานนักศึกษา พร้อมระบบติดตามความก้าวหน้ารายสัปดาห์ (Milestones), Real-time Chat & Notifications และสิทธิ์ 4 บทบาท <i>(ร่วมกับ <a href="https://github.com/nattagrit">@nattagrit</a>)</i></p>
+      <img src="https://skillicons.dev/icons?i=react,tailwind,vite,nodejs,express,supabase,postgres,vercel" height="24" alt="React 19, Tailwind, Vite, Node, Express, Supabase, Postgres, Vercel" />
+    </td>
+    <td align="center" width="180" valign="middle">
+      <a href="https://github.com/Akkaradet-Wong/adsysrmuti">
+        <img src="https://img.shields.io/badge/Repository_→-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+      </a>
+    </td>
+  </tr>
   <tr>
     <td valign="middle">
       <h3><a href="https://github.com/Akkaradet-Wong/JSW-KOL-Platfrom">JSW-KOL-Platfrom</a></h3>
@@ -52,6 +64,23 @@
     </td>
     <td align="center" width="180" valign="middle">
       <a href="https://github.com/Akkaradet-Wong/Mobile-Application-Development">
+        <img src="https://img.shields.io/badge/Repository_→-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+### AI & Computer Vision
+
+<table width="100%">
+  <tr>
+    <td valign="middle">
+      <h3><a href="https://github.com/Akkaradet-Wong/Computer-Vision-Image-Processing">Computer Vision & Image Processing Algorithms</a></h3>
+      <p>การพัฒนาอัลกอริทึมประมวลผลภาพดิจิทัลจากศูนย์: Grayscale Luminance, Gaussian Noise Mean Filter, Salt & Pepper Median Filter และ Otsu Automatic Binarization</p>
+      <img src="https://skillicons.dev/icons?i=py,opencv" height="24" alt="Python, OpenCV" />
+    </td>
+    <td align="center" width="180" valign="middle">
+      <a href="https://github.com/Akkaradet-Wong/Computer-Vision-Image-Processing">
         <img src="https://img.shields.io/badge/Repository_→-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
       </a>
     </td>
@@ -105,7 +134,8 @@
 
 | หมวดหมู่ | ทักษะและความเชี่ยวชาญ | โลโก้เทคโนโลยีและเครื่องมือ |
 | :--- | :--- | :--- |
-| **Web Development** | Frontend Application, Responsive Web, Component Architecture | [![Web](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nextjs)](https://skillicons.dev) |
+| **Web & Full-Stack** | Full-Stack Architecture, RESTful APIs, Component Systems, Responsive Web | [![Web](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nextjs,nodejs,express,supabase,postgres)](https://skillicons.dev) |
 | **Mobile Development** | Cross-Platform Architecture, Material Design 3, Mobile UI/UX | [![Mobile](https://skillicons.dev/icons?i=flutter,dart,androidstudio,java,figma,materialui)](https://skillicons.dev) |
+| **AI & Computer Vision** | Digital Image Processing, Mathematical Spatial Filtering, Otsu Binarization | [![AI](https://skillicons.dev/icons?i=py,opencv)](https://skillicons.dev) |
 | **IoT & Embedded Systems** | ESP32 Firmware, Sensor Telemetry, Cloud Synchronization | [![Embedded](https://skillicons.dev/icons?i=arduino,cpp,py,firebase)](https://skillicons.dev) |
-| **Tools & Platforms** | Version Control, IDEs, API Testing, Package Management & DB | [![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,npm,sqlite,powershell)](https://skillicons.dev) |
+| **Tools & Platforms** | Version Control, Cloud Deployment, API Testing, Package Management & DB | [![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel,powershell)](https://skillicons.dev) |

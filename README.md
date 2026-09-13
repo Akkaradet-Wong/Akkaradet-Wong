@@ -60,9 +60,9 @@
 
 ## ทักษะความเชี่ยวชาญ (Technical Skills)
 
-| หมวดหมู่ | โลโก้เทคโนโลยีและเครื่องมือ |
-| :--- | :--- |
-| **Web Development** | [![Web](https://skillicons.dev/icons?i=react,ts,js,tailwind,vite,html,css)](https://skillicons.dev) |
-| **Mobile Development** | [![Mobile](https://skillicons.dev/icons?i=flutter,dart,androidstudio)](https://skillicons.dev) |
-| **IoT & Embedded Systems** | [![Embedded](https://skillicons.dev/icons?i=arduino,cpp,py,firebase)](https://skillicons.dev) |
-| **Tools & Platforms** | [![Tools](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev) |
+| หมวดหมู่ | ทักษะและความเชี่ยวชาญ | โลโก้เทคโนโลยีและเครื่องมือ |
+| :--- | :--- | :--- |
+| **Web Development** | Frontend Application, Responsive Web, Component Architecture | [![Web](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nextjs)](https://skillicons.dev) |
+| **Mobile Development** | Cross-Platform Architecture, Material Design 3, Mobile UI/UX | [![Mobile](https://skillicons.dev/icons?i=flutter,dart,androidstudio,java,apple,figma,materialui)](https://skillicons.dev) |
+| **IoT & Embedded Systems** | ESP32 Firmware, Sensor Telemetry, Cloud Synchronization | [![Embedded](https://skillicons.dev/icons?i=arduino,cpp,py,firebase,raspberrypi,linux,bash)](https://skillicons.dev) |
+| **Tools & Platforms** | Version Control, IDEs, API Testing, Package Management & DB | [![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,npm,sqlite,powershell)](https://skillicons.dev) |

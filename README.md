@@ -26,38 +26,78 @@
 
 ### Web Development
 
-#### [JSW-KOL-Platfrom](https://github.com/Akkaradet-Wong/JSW-KOL-Platfrom)
-เว็บแอปพลิเคชันสำหรับลงทะเบียนและจัดการบัญชี KOL พร้อมระบบ Multi-step Form Validation และ Responsive Design  
-**Tech Stack:** `React`, `TypeScript`, `Vite`, `Tailwind CSS`  
-[ดูรายละเอียดและตัวอย่างระบบใน Repository →](https://github.com/Akkaradet-Wong/JSW-KOL-Platfrom)
-
----
+<table width="100%">
+  <tr>
+    <td valign="middle">
+      <h3><a href="https://github.com/Akkaradet-Wong/JSW-KOL-Platfrom">JSW-KOL-Platfrom</a></h3>
+      <p>เว็บแอปพลิเคชันสำหรับลงทะเบียนและจัดการบัญชี KOL พร้อมระบบ Multi-step Form Validation และ Responsive Design</p>
+      <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind" height="24" alt="Tech Stack" />
+    </td>
+    <td align="center" width="180" valign="middle">
+      <a href="https://github.com/Akkaradet-Wong/JSW-KOL-Platfrom">
+        <img src="https://img.shields.io/badge/Repository_→-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### Mobile Applications
 
-#### [Mobile Application Development (Flutter & Dart)](https://github.com/Akkaradet-Wong/Mobile-Application-Development)
-คลังผลงานวิชาการพัฒนาโมบายล์แอปพลิเคชัน รวบรวม 9 Labs ครอบคลุม UI Clone, REST API และ Hardware Integration  
-**Tech Stack:** `Flutter`, `Dart`, `Material Design 3`  
-[ดูภาพตัวอย่าง UI และโค้ดทุก Lab ใน Repository →](https://github.com/Akkaradet-Wong/Mobile-Application-Development)
-
----
+<table width="100%">
+  <tr>
+    <td valign="middle">
+      <h3><a href="https://github.com/Akkaradet-Wong/Mobile-Application-Development">Mobile Application Development (Flutter & Dart)</a></h3>
+      <p>คลังผลงานวิชาการพัฒนาโมบายล์แอปพลิเคชัน รวบรวม 9 Labs ครอบคลุม UI Clone, REST API และ Hardware Integration</p>
+      <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,materialui" height="24" alt="Tech Stack" />
+    </td>
+    <td align="center" width="180" valign="middle">
+      <a href="https://github.com/Akkaradet-Wong/Mobile-Application-Development">
+        <img src="https://img.shields.io/badge/Repository_→-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### IoT & Embedded Systems
 
-#### [Smart Fan Controller](https://github.com/Painter121/microcontroller-mini-project-fan-controller)
-ระบบควบคุมพัดลมอัจฉริยะ ปรับความเร็วรอบอัตโนมัติตามอุณหภูมิและเวลาจริง *(ร่วมกับ [@Painter121](https://github.com/Painter121))*  
-**Tech Stack:** `ESP32`, `MicroPython`, `PWM`, `I2C`, `DHT22`  
-[ดูแผนผังวงจรและการทำงานใน Repository →](https://github.com/Painter121/microcontroller-mini-project-fan-controller)
-
-#### [IoT Web Control System](https://github.com/Painter121/iot-web-control-labs)
-ระบบควบคุมและมอนิเตอร์สถานะอุปกรณ์ผ่าน Web Dashboard ซิงค์ Cloud เรียลไทม์ *(ร่วมกับ [@Painter121](https://github.com/Painter121))*  
-**Tech Stack:** `ESP32`, `Firebase Realtime Database`, `JavaScript`, `CSS`  
-[ดู Web Dashboard และระบบเชื่อมต่อใน Repository →](https://github.com/Painter121/iot-web-control-labs)
-
-#### [Microcontroller Firmware Labs (15 Labs)](https://github.com/Painter121/iot-web-control-labs)
-รวม 15 แล็บปฏิบัติการระบบสมองกลฝังตัว การควบคุม I/O, Hardware Interrupts และเซ็นเซอร์  
-**Tech Stack:** `ESP32`, `MicroPython`  
-[ดูคู่มือและโค้ดการทดลองทั้ง 15 Labs ใน Repository →](https://github.com/Painter121/iot-web-control-labs)
+<table width="100%">
+  <tr>
+    <td valign="middle">
+      <h3><a href="https://github.com/Painter121/microcontroller-mini-project-fan-controller">Smart Fan Controller</a></h3>
+      <p>ระบบควบคุมพัดลมอัจฉริยะ ปรับความเร็วรอบอัตโนมัติตามอุณหภูมิและเวลาจริง <i>(ร่วมกับ <a href="https://github.com/Painter121">@Painter121</a>)</i></p>
+      <img src="https://skillicons.dev/icons?i=py,cpp,arduino" height="24" alt="Tech Stack" />
+    </td>
+    <td align="center" width="180" valign="middle">
+      <a href="https://github.com/Painter121/microcontroller-mini-project-fan-controller">
+        <img src="https://img.shields.io/badge/Repository_→-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle">
+      <h3><a href="https://github.com/Painter121/iot-web-control-labs">IoT Web Control System</a></h3>
+      <p>ระบบควบคุมและมอนิเตอร์สถานะอุปกรณ์ผ่าน Web Dashboard ซิงค์ Cloud เรียลไทม์ <i>(ร่วมกับ <a href="https://github.com/Painter121">@Painter121</a>)</i></p>
+      <img src="https://skillicons.dev/icons?i=firebase,js,css,arduino" height="24" alt="Tech Stack" />
+    </td>
+    <td align="center" width="180" valign="middle">
+      <a href="https://github.com/Painter121/iot-web-control-labs">
+        <img src="https://img.shields.io/badge/Repository_→-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle">
+      <h3><a href="https://github.com/Painter121/iot-web-control-labs">Microcontroller Firmware Labs (15 Labs)</a></h3>
+      <p>รวม 15 แล็บปฏิบัติการระบบสมองกลฝังตัว การควบคุม I/O, Hardware Interrupts และเซ็นเซอร์ <i>(ร่วมกับ <a href="https://github.com/Painter121">@Painter121</a>)</i></p>
+      <img src="https://skillicons.dev/icons?i=py,arduino,cpp" height="24" alt="Tech Stack" />
+    </td>
+    <td align="center" width="180" valign="middle">
+      <a href="https://github.com/Painter121/iot-web-control-labs">
+        <img src="https://img.shields.io/badge/Repository_→-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 

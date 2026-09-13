@@ -60,9 +60,9 @@
 
 ## ทักษะความเชี่ยวชาญ (Technical Skills)
 
-| หมวดหมู่ | เทคโนโลยีและเครื่องมือ |
+| หมวดหมู่ | โลโก้เทคโนโลยีและเครื่องมือ |
 | :--- | :--- |
-| **Web Development** | `React`, `TypeScript`, `JavaScript`, `Vite`, `Tailwind CSS`, `HTML5`, `CSS3` |
-| **Mobile Development** | `Flutter`, `Dart`, `Material Design 3`, `Android Studio` |
-| **IoT & Embedded Systems** | `ESP32`, `MicroPython`, `Firebase Realtime Database`, `PWM`, `I2C`, `Sensors` |
-| **Tools & Platforms** | `Git`, `GitHub`, `VS Code`, `Thonny`, `SQL`, `Python` |
+| **Web Development** | [![Web](https://skillicons.dev/icons?i=react,ts,js,tailwind,vite,html,css)](https://skillicons.dev) |
+| **Mobile Development** | [![Mobile](https://skillicons.dev/icons?i=flutter,dart,androidstudio)](https://skillicons.dev) |
+| **IoT & Embedded Systems** | [![Embedded](https://skillicons.dev/icons?i=arduino,cpp,py,firebase)](https://skillicons.dev) |
+| **Tools & Platforms** | [![Tools](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev) |

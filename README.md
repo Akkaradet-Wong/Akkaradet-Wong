@@ -1,111 +1,61 @@
-# สวัสดีครับ, ผม อัครเดช วงษ์บำหราบ (Akkaradet) 👋
-### 💻 Web • Mobile Application • IoT & Embedded Developer
+# อัครเดช วงษ์บำหราบ (Akkaradet)
+Web • Mobile Application • IoT & Embedded Developer
 
-<p align="left">
-  <a href="./Resume_Akkaradet.pdf"><img src="https://img.shields.io/badge/📄_View-Resume-2563eb?style=for-the-badge&logo=googledocs&logoColor=white" /></a>
-  <a href="mailto:pa0653407100@gmail.com"><img src="https://img.shields.io/badge/Email-pa0653407100@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Akkaradet-Wong"><img src="https://img.shields.io/badge/GitHub-Akkaradet--Wong-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+[Resume](./Resume_Akkaradet.pdf) / [Email](mailto:pa0653407100@gmail.com) / [GitHub](https://github.com/Akkaradet-Wong)
 
 ---
 
-### 👨‍💻 เกี่ยวกับฉัน (About Me)
-- 🚀 มีความสนใจและมุ่งมั่นพัฒนาทักษะใน 3 ด้านหลัก: **Web Development**, **Mobile Application**, และ **IoT / Embedded Systems**
-- 💡 มีประสบการณ์ในการพัฒนาทั้ง **โปรเจกต์เดี่ยว** และ **การทำงานเป็นทีมร่วมกับเพื่อน (Team Collaboration)**
-- 🛠 ชอบเรียนรู้เทคโนโลยีใหม่ ๆ เขียนโค้ดเป็นระเบียบ (Clean Code) และสร้างสรรค์ระบบที่ใช้งานได้จริงในชีวิตประจำวัน
+## ผลงานและโปรเจกต์ (Projects & Showcase)
 
----
+### Web Development
 
-## 📂 คลังผลงานแยกตามหมวดหมู่ (Categorized Portfolio)
-
-### 🚀 1. ผลงานโปรเจกต์เดี่ยว (Individual & Featured Projects)
-
-#### 🌐 [JSW-KOL-Platfrom](https://github.com/Akkaradet-Wong/JSW-KOL-Platfrom)
-> **แพลตฟอร์มเว็บสำหรับลงทะเบียนและจัดการบัญชี KOL (Key Opinion Leader)**
-- **ลักษณะงาน:** โปรเจกต์เดี่ยว (Frontend Web Application)
-- **ฟีเจอร์เด่น:**
-  - ระบบตรวจสอบความถูกต้องของข้อมูล (Form Validation) อัตโนมัติ (Email format, Password strength & match, Phone number 10 หลัก)
+#### [JSW-KOL-Platfrom](https://github.com/Akkaradet-Wong/JSW-KOL-Platfrom)
+เว็บแอปพลิเคชันสำหรับการลงทะเบียนและจัดการบัญชี KOL (Key Opinion Leader)
+- **Tech Stack:** React, TypeScript, Vite, Tailwind CSS
+- **ฟังก์ชันหลัก:**
   - ระบบสมัครสมาชิกแบบหลายขั้นตอน (Multi-step Registration Wizard)
-  - ปรับแต่งหน้าตาให้รองรับทุกอุปกรณ์ (Responsive Web Design) ด้วย Tailwind CSS
-- **Tech Stack:** 
-  ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+  - ระบบตรวจสอบความถูกต้องของข้อมูลอัตโนมัติ (Email, Password Policy & Match, Phone Number)
+  - ดีไซน์รองรับทุกขนาดหน้าจอ (Responsive Web Design)
 
 ---
 
-### 🤝 2. ผลงานที่ร่วมพัฒนากับเพื่อน (Team & Collaborative Projects)
+### Mobile Applications
 
-#### 🌀 [Microcontroller Mini Project: Smart Fan Controller](https://github.com/Painter121/microcontroller-mini-project-fan-controller)
-> **ระบบควบคุมพัดลมอัจฉริยะอัตโนมัติตามอุณหภูมิและเวลาจริงด้วย ESP32**
-- **ผู้ร่วมพัฒนา:** [@Painter121 (ภูริภัทร มะลิซ้อน)](https://github.com/Painter121) ร่วมกับ [@Akkaradet-Wong (อัครเดช วงษ์บำหราบ)](https://github.com/Akkaradet-Wong)
-- **ฟีเจอร์เด่น:**
-  - ควบคุมการเปิด-ปิดและปรับระดับความเร็วรอบพัดลมด้วยสัญญาณ **PWM (Pulse Width Modulation)**
-  - ตรวจวัดอุณหภูมิและความชื้นสัมพัทธ์ในอากาศแบบเรียลไทม์ด้วยเซ็นเซอร์ **DHT22**
-  - แสดงผลสถานะและอุณหภูมิผ่านหน้าจอ **LCD 16x2 (I2C Bus)**
-  - ระบบเวลาจริงด้วยโมดูล **DS3231 RTC** และรับคำสั่งตั้งค่าผ่าน **Matrix Keypad 4x4**
-- **Tech Stack:** 
-  ![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=flat-square&logo=python&logoColor=white)
-  ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-  ![Hardware](https://img.shields.io/badge/Hardware-PWM_|_I2C_|_Sensors-blue?style=flat-square)
-
-#### 📡 [IoT Embedded & Web Control System](https://github.com/Painter121/iot-web-control-labs)
-> **ระบบควบคุมและมอนิเตอร์อุปกรณ์ IoT ระยะไกลผ่าน Web Dashboard เชื่อมต่อ Cloud**
-- **ผู้ร่วมพัฒนา:** [@Painter121](https://github.com/Painter121) ร่วมกับ [@Akkaradet-Wong](https://github.com/Akkaradet-Wong)
-- **ฟีเจอร์เด่น:**
-  - เว็บแดชบอร์ดสำหรับสั่งการและดูสถานะอุปกรณ์ผ่านอินเทอร์เน็ต (Web Control)
-  - ฐานข้อมูลคลาวด์แบบเรียลไทม์ **Firebase Realtime Database** เพื่อซิงค์ข้อมูลระหว่างบอร์ดและเว็บทันที
-  - ระบบตั้งเวลาเปิด-ปิดอัตโนมัติ (Schedule Timer) และระบบวัดค่าความเข้มแสงเพื่อควบคุมหลอดไฟ
-- **Tech Stack:** 
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-  ![HTML5/CSS3](https://img.shields.io/badge/Web_Dashboard-HTML5_|_CSS3-E34F26?style=flat-square)
+#### [Mobile Application Development (Flutter & Dart)](https://github.com/Akkaradet-Wong/Mobile-Application-Development)
+คลังผลงานวิชาการพัฒนาโมบายล์แอปพลิเคชัน รวม 9 Labs ครอบคลุมสถาปัตยกรรมและการเชื่อมต่อฮาร์ดแวร์
+- **Tech Stack:** Flutter, Dart, Material Design 3
+- **ฟังก์ชันหลัก:**
+  - **UI Architecture:** โคลนแถบแจ้งเตือน Android / Samsung Quick Settings (Custom Widgets, Quick Settings Tiles, แถบปรับระดับแสง)
+  - **State & API Integration:** จัดการสถานะด้วย `StatefulWidget` และเชื่อมต่อ REST API รายงานสถิติ COVID-19 แบบ Asynchronous พร้อมแปลง JSON สู่ Data Model
+  - **Local Storage & Hardware:** จัดเก็บข้อมูลลงเครื่องด้วย `path_provider`, เชื่อมต่อกล้องถ่ายภาพ, จัดเก็บลงแกลเลอรี และระบบสั่นเตือน (Haptic Feedback)
+  - **Location & Map Services:** ดึงพิกัดดาวเทียมแบบเรียลไทม์ด้วย `geolocator` และเรนเดอร์แผนที่ OpenStreetMap ด้วย `flutter_map`
 
 ---
 
-### 📚 3. ปฏิบัติการในรายวิชา (Coursework & Academic Labs)
+### IoT & Embedded Systems
 
-#### 📱 [Mobile Application Development (Flutter & Dart)](https://github.com/Akkaradet-Wong/Mobile-Application-Development)
-> **คลังผลงานวิชาการพัฒนาแอปพลิเคชันบนอุปกรณ์เคลื่อนที่ รวบรวม 9 Labs พร้อมรูปตัวอย่าง UI ทุกแล็บ**
-- **เนื้อหาการทดลอง:**
-  - **Lab 01-04 (Core & State):** Dart SDK Syntax, Named Parameters, Scaffold, Dark Theme, StatefulWidget, Material 3 Counter (3 Actions)
-  - **Lab 05 (UI Clone):** โคลนแถบควบคุมแจ้งเตือน Samsung/Android Quick Settings (330+ บรรทัด)
-  - **Lab 06 (REST API):** ดึงข้อมูลสถิติ COVID-19 แบบสดผ่าน Asynchronous HTTP และแปลง JSON สู่ Model
-  - **Lab 07 (Local Storage):** บันทึกประวัตินักศึกษาลงหน่วยความจำของเครื่องด้วย `path_provider`
-  - **Lab 08 (Hardware Integration):** ควบคุมกล้องถ่ายภาพ, สั่นเตือน (`HapticFeedback`), และบันทึกลงแกลเลอรี
-  - **Lab 09 (GPS & Maps):** ค้นหาพิกัดดาวเทียมแบบเรียลไทม์ (`geolocator`) และเรนเดอร์ OpenStreetMap (`flutter_map`)
-- **Tech Stack:** 
-  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-  ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+#### [Smart Fan Controller](https://github.com/Painter121/microcontroller-mini-project-fan-controller)
+ระบบควบคุมพัดลมอัจฉริยะ ปรับความเร็วรอบอัตโนมัติตามอุณหภูมิและเวลาจริง *(พัฒนาร่วมกับ [@Painter121](https://github.com/Painter121))*
+- **Tech Stack:** ESP32, MicroPython, PWM, I2C, DHT22, DS3231 RTC
+- **ฟังก์ชันหลัก:** ควบคุมรอบหมุนพัดลมด้วยสัญญาณ PWM ตามระดับอุณหภูมิ, ตรวจวัดอุณหภูมิและความชื้นด้วย DHT22, แสดงสถานะผ่าน LCD 16x2 (I2C), กำหนดเวลาด้วย DS3231 RTC และรับคำสั่งตั้งค่าผ่าน Matrix Keypad 4x4
 
-#### 🔬 [IoT & Microcontroller Firmware Labs (15 Labs)](https://github.com/Painter121/iot-web-control-labs)
-> **ชุดการทดลองระบบสมองกลฝังตัวและอินเทอร์เน็ตของสรรพสิ่ง (ESP32 MicroPython)**
-- **เนื้อหาการทดลอง:** การควบคุม I/O, Matrix Keypad, Hardware Interrupts, Timers, Deep Sleep ประหยัดพลังงาน, เซ็นเซอร์ตรวจจับการเคลื่อนไหว PIR (HC-SR501) และเซ็นเซอร์แสง LDR
+#### [IoT Web Control System](https://github.com/Painter121/iot-web-control-labs)
+ระบบควบคุมและตรวจสอบสถานะอุปกรณ์ระยะไกลผ่าน Web Dashboard *(พัฒนาร่วมกับ [@Painter121](https://github.com/Painter121))*
+- **Tech Stack:** ESP32, Firebase Realtime Database, JavaScript, HTML5/CSS3
+- **ฟังก์ชันหลัก:** สั่งการและแสดงสถานะอุปกรณ์แบบสองทางผ่าน Firebase Cloud, ตั้งเวลาเปิด-ปิดอัตโนมัติ (Schedule Timer) และปรับการทำงานตามเซ็นเซอร์วัดแสง LDR
+
+#### [Microcontroller Firmware Labs (15 Labs)](https://github.com/Painter121/iot-web-control-labs)
+ชุดการทดลองระบบสมองกลฝังตัวระดับเฟิร์มแวร์ 15 แล็บ
+- **Tech Stack:** ESP32, MicroPython
+- **ฟังก์ชันหลัก:** ควบคุม Digital/Analog I/O, Matrix Keypad Scanning, Hardware Interrupts, Timers, โหมดประหยัดพลังงาน Deep Sleep, เซ็นเซอร์ตรวจจับความเคลื่อนไหว PIR และเซ็นเซอร์แสง LDR
 
 ---
 
-### 🛠️ ทักษะและความถนัดทางเทคนิค (Tech Stack)
+## ทักษะความเชี่ยวชาญ (Technical Skills)
 
-| หมวดหมู่ | เทคโนโลยี / ภาษา / เครื่องมือ |
+| หมวดหมู่ | เทคโนโลยีและเครื่องมือ |
 | :--- | :--- |
-| **Mobile Development** | `Flutter`, `Dart`, `Android Studio`, `Material Design 3` |
-| **Frontend & Web** | `React`, `TypeScript`, `JavaScript`, `Vite`, `Tailwind CSS`, `HTML5`, `CSS3` |
-| **Embedded & IoT** | `ESP32`, `MicroPython`, `Firebase Realtime DB`, `PWM`, `I2C Bus`, `Sensors` |
-| **Languages & Others** | `Python`, `SQL`, `Git`, `GitHub`, `VS Code`, `Thonny` |
-
----
-
-### 📊 สถิติบน GitHub (GitHub Stats)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akkaradet-Wong&show_icons=true&theme=tokyonight&hide_border=true" alt="Akkaradet's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akkaradet-Wong&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <i>⭐️ ขอบคุณที่เข้ามาเยี่ยมชมโปรไฟล์และผลงานของผมครับ! ยินดีร่วมงานและแลกเปลี่ยนความรู้เสมอ ⭐️</i>
-</p>
+| **Web Development** | `React`, `TypeScript`, `JavaScript`, `Vite`, `Tailwind CSS`, `HTML5`, `CSS3` |
+| **Mobile Development** | `Flutter`, `Dart`, `Material Design 3`, `Android Studio` |
+| **IoT & Embedded Systems** | `ESP32`, `MicroPython`, `Firebase Realtime Database`, `PWM`, `I2C`, `Sensors` |
+| **Tools & Platforms** | `Git`, `GitHub`, `VS Code`, `Thonny`, `SQL`, `Python` |

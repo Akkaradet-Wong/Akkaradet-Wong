@@ -17,44 +17,37 @@
 ### Web Development
 
 #### [JSW-KOL-Platfrom](https://github.com/Akkaradet-Wong/JSW-KOL-Platfrom)
-เว็บแอปพลิเคชันสำหรับการลงทะเบียนและจัดการบัญชี KOL (Key Opinion Leader)
-- **Tech Stack:** React, TypeScript, Vite, Tailwind CSS
-- **ฟังก์ชันหลัก:**
-  - ระบบสมัครสมาชิกแบบหลายขั้นตอน (Multi-step Registration Wizard)
-  - ระบบตรวจสอบความถูกต้องของข้อมูลอัตโนมัติ (Email, Password Policy & Match, Phone Number)
-  - ดีไซน์รองรับทุกขนาดหน้าจอ (Responsive Web Design)
+เว็บแอปพลิเคชันสำหรับลงทะเบียนและจัดการบัญชี KOL พร้อมระบบ Multi-step Form Validation และ Responsive Design  
+**Tech Stack:** `React`, `TypeScript`, `Vite`, `Tailwind CSS`  
+[ดูรายละเอียดและตัวอย่างระบบใน Repository →](https://github.com/Akkaradet-Wong/JSW-KOL-Platfrom)
 
 ---
 
 ### Mobile Applications
 
 #### [Mobile Application Development (Flutter & Dart)](https://github.com/Akkaradet-Wong/Mobile-Application-Development)
-คลังผลงานวิชาการพัฒนาโมบายล์แอปพลิเคชัน รวม 9 Labs ครอบคลุมสถาปัตยกรรมและการเชื่อมต่อฮาร์ดแวร์
-- **Tech Stack:** Flutter, Dart, Material Design 3
-- **ฟังก์ชันหลัก:**
-  - **UI Architecture:** โคลนแถบแจ้งเตือน Android / Samsung Quick Settings (Custom Widgets, Quick Settings Tiles, แถบปรับระดับแสง)
-  - **State & API Integration:** จัดการสถานะด้วย `StatefulWidget` และเชื่อมต่อ REST API รายงานสถิติ COVID-19 แบบ Asynchronous พร้อมแปลง JSON สู่ Data Model
-  - **Local Storage & Hardware:** จัดเก็บข้อมูลลงเครื่องด้วย `path_provider`, เชื่อมต่อกล้องถ่ายภาพ, จัดเก็บลงแกลเลอรี และระบบสั่นเตือน (Haptic Feedback)
-  - **Location & Map Services:** ดึงพิกัดดาวเทียมแบบเรียลไทม์ด้วย `geolocator` และเรนเดอร์แผนที่ OpenStreetMap ด้วย `flutter_map`
+คลังผลงานวิชาการพัฒนาโมบายล์แอปพลิเคชัน รวบรวม 9 Labs ครอบคลุม UI Clone, REST API และ Hardware Integration  
+**Tech Stack:** `Flutter`, `Dart`, `Material Design 3`  
+[ดูภาพตัวอย่าง UI และโค้ดทุก Lab ใน Repository →](https://github.com/Akkaradet-Wong/Mobile-Application-Development)
 
 ---
 
 ### IoT & Embedded Systems
 
 #### [Smart Fan Controller](https://github.com/Painter121/microcontroller-mini-project-fan-controller)
-ระบบควบคุมพัดลมอัจฉริยะ ปรับความเร็วรอบอัตโนมัติตามอุณหภูมิและเวลาจริง *(พัฒนาร่วมกับ [@Painter121](https://github.com/Painter121))*
-- **Tech Stack:** ESP32, MicroPython, PWM, I2C, DHT22, DS3231 RTC
-- **ฟังก์ชันหลัก:** ควบคุมรอบหมุนพัดลมด้วยสัญญาณ PWM ตามระดับอุณหภูมิ, ตรวจวัดอุณหภูมิและความชื้นด้วย DHT22, แสดงสถานะผ่าน LCD 16x2 (I2C), กำหนดเวลาด้วย DS3231 RTC และรับคำสั่งตั้งค่าผ่าน Matrix Keypad 4x4
+ระบบควบคุมพัดลมอัจฉริยะ ปรับความเร็วรอบอัตโนมัติตามอุณหภูมิและเวลาจริง *(ร่วมกับ [@Painter121](https://github.com/Painter121))*  
+**Tech Stack:** `ESP32`, `MicroPython`, `PWM`, `I2C`, `DHT22`  
+[ดูแผนผังวงจรและการทำงานใน Repository →](https://github.com/Painter121/microcontroller-mini-project-fan-controller)
 
 #### [IoT Web Control System](https://github.com/Painter121/iot-web-control-labs)
-ระบบควบคุมและตรวจสอบสถานะอุปกรณ์ระยะไกลผ่าน Web Dashboard *(พัฒนาร่วมกับ [@Painter121](https://github.com/Painter121))*
-- **Tech Stack:** ESP32, Firebase Realtime Database, JavaScript, HTML5/CSS3
-- **ฟังก์ชันหลัก:** สั่งการและแสดงสถานะอุปกรณ์แบบสองทางผ่าน Firebase Cloud, ตั้งเวลาเปิด-ปิดอัตโนมัติ (Schedule Timer) และปรับการทำงานตามเซ็นเซอร์วัดแสง LDR
+ระบบควบคุมและมอนิเตอร์สถานะอุปกรณ์ผ่าน Web Dashboard ซิงค์ Cloud เรียลไทม์ *(ร่วมกับ [@Painter121](https://github.com/Painter121))*  
+**Tech Stack:** `ESP32`, `Firebase Realtime Database`, `JavaScript`, `CSS`  
+[ดู Web Dashboard และระบบเชื่อมต่อใน Repository →](https://github.com/Painter121/iot-web-control-labs)
 
 #### [Microcontroller Firmware Labs (15 Labs)](https://github.com/Painter121/iot-web-control-labs)
-ชุดการทดลองระบบสมองกลฝังตัวระดับเฟิร์มแวร์ 15 แล็บ
-- **Tech Stack:** ESP32, MicroPython
-- **ฟังก์ชันหลัก:** ควบคุม Digital/Analog I/O, Matrix Keypad Scanning, Hardware Interrupts, Timers, โหมดประหยัดพลังงาน Deep Sleep, เซ็นเซอร์ตรวจจับความเคลื่อนไหว PIR และเซ็นเซอร์แสง LDR
+รวม 15 แล็บปฏิบัติการระบบสมองกลฝังตัว การควบคุม I/O, Hardware Interrupts และเซ็นเซอร์  
+**Tech Stack:** `ESP32`, `MicroPython`  
+[ดูคู่มือและโค้ดการทดลองทั้ง 15 Labs ใน Repository →](https://github.com/Painter121/iot-web-control-labs)
 
 ---
 

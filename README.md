@@ -3,9 +3,11 @@
 
   <br><br>
 
-  <a href="./Resume_Akkaradet.pdf"><img src="https://img.shields.io/badge/Resume-1e3a8a?style=flat-square&logo=googledocs&logoColor=93c5fd" alt="Resume" /></a>
-  <a href="mailto:pa0653407100@gmail.com"><img src="https://img.shields.io/badge/Email-0284c7?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Akkaradet-Wong"><img src="https://img.shields.io/badge/GitHub-070f26?style=flat-square&logo=github&logoColor=93c5fd" alt="GitHub" /></a>
+  <a href="./Resume_Akkaradet.pdf"><img src="https://img.shields.io/badge/Resume-1e3a8a?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:pa0653407100@gmail.com"><img src="https://img.shields.io/badge/Email-0284c7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Akkaradet-Wong"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
 <br>
